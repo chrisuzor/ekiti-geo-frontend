@@ -13,7 +13,7 @@
              <router-link to="/parcels" class="nav-link">Parcels </router-link>
            </li>
             <li class="nav-item">
-             <router-link to="/login" class="nav-link">Buildings </router-link>
+             <router-link to="/buildings" class="nav-link">Buildings </router-link>
            </li>
             <li class="nav-item">
              <router-link to="/login" class="nav-link">Units </router-link>
